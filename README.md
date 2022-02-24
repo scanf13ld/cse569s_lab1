@@ -8,6 +8,11 @@ pip install ckwrap
 pip install bcrypt
 ```
 
+## Download Input Video
+https://drive.google.com/file/d/1rXQPPY0MlXdxGnydkXaQxxi6IQi2HAYc/view
+
+place the file in `content/input`
+
 ## Run
 `python main.py`
 
